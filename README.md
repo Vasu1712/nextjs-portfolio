@@ -3,7 +3,7 @@
   <a href="" target="_blank">Vasu.17</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="public/images/1.png" />
+  <img alt="Demo" src="public/images/portfolio.png" />
 </div>
 
 <br/>
