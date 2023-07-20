@@ -4,8 +4,8 @@ export const projects = [
     description: "This Project was a part of XROS Fellowship. Built an amazing 3D Simulated experience of Live match in AR with interaction. Implemented ThreeJS, A-frame, WebXR API and node for working.",
       image: '/images/xros.png',
       tags: [ 'ThreeJS', 'Augmented Reality', 'WebXR API'],
-    source: '',
-    visit: '',
+    source: 'https://github.com/n-ay/3d-live-simulated-match-with-interaction.git',
+    visit: 'https://3d-live-simulated-match-with-interaction.vercel.app/',
     id: 0,
   },
   {
