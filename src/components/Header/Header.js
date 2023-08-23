@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillRedditCircle, AiFillRedditSquare, AiFillTwitterCircle } from 'react-icons/ai';
 import { SiV } from "react-icons/si";
 import { vasuLogo } from '../../../public/vasuLogo.png';
 
@@ -45,8 +45,8 @@ const Header = () =>  (
         <SocialIcons href="https://www.linkedin.com/in/vasu-pal-300448203/">
           <AiFillLinkedin size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://www.instagram.com/imvasupal.17/">
-          <AiFillInstagram size="3rem"/>
+        <SocialIcons href="https://www.reddit.com/user/Heavy-Cat3771">
+          <AiFillRedditCircle size="3rem"/>
         </SocialIcons>
       </Div3>
     </Container>
