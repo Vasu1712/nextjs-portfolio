@@ -1,5 +1,5 @@
 import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillRedditCircle } from 'react-icons/ai';
 
 import { SocialIcons } from '../Header/HeaderStyles';
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
@@ -30,8 +30,8 @@ const Footer = () => {
           <SocialIcons href="https://www.linkedin.com/in/vasu-pal-300448203/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://leetcode.com/Vasu_1712/">
-            <AiFillInstagram size="3rem" />
+          <SocialIcons href="https://www.reddit.com/user/Heavy-Cat3771">
+            <AiFillRedditCircle size="3rem" />
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>
