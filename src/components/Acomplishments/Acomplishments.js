@@ -5,6 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 import Github from './Github';
 
 const data = [
+  { number: 1, text: 'Crowned as the Winner of Walmart Sparkathon'23', },
   { number: 1/200, text: 'Got selected in XROS Fellowship by Meta(Top 100 out of 20000)', },
   { number: 2, text: 'Runners-Up at the Big Tech Project organized by DP World, Dubai.'},
   { number: 4, text: 'Came 4th in Isuzu International Hackathon 2022', },
